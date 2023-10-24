@@ -1,0 +1,14 @@
+﻿body
+{
+}
+hr {
+    background-color: white;
+}
+
+#wrapper {
+    width: 600px;
+    Background-color: #5bc0de;
+    Border: 1px solid #000000;
+    margin-left: 20px;
+    padding: 10px;
+}
